@@ -1,4 +1,9 @@
-# Hi, I'm Aqsam
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0F9B8E&width=435&lines=%3CHello+World!%2F%3E"
+  alt="Hello World"
+/>
+
+# I'm Aqsam
 
 Full-stack developer building practical software for real-world problems.
 
